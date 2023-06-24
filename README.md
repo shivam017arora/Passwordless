@@ -69,6 +69,7 @@ Public Inputs:
   1. F (encryption function) (known)
   2. Hash (algortithm, most probably sha3 for eth) (known)
   3. EncryptedMessage, from QR code (received)
+
 Private Input:
   1. Private Key (Secret Key)
   2. Salt
