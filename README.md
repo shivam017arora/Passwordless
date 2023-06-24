@@ -74,7 +74,8 @@ Private Input:
   2. Salt
 ```
 So the zksnark should have a system of constraints that implement the following:
-𝐻−Hash(𝑆)==0encryptedSecret−f(𝑆,salt)==0
+𝐻−Hash(𝑆)==0
+encryptedSecret−f(𝑆,salt)==0
 ```
 OffChain ZK App will do this:
 ```
